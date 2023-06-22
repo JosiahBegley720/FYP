@@ -4,4 +4,4 @@ Josiah Begley
 CID: 01846829
 
 Description:
-This is my implementation of the DDPM using fixed variance and linear scheduling. My implementation follows LabML DDPM and uses LabML libraries to run and manage my experiments for training and evaluating my model. This implementation can be run in colab and requires connection to Google Drive for loading and saving although this can be modified to run locally.
+This is my implementation of the DDPM using fixed variance and linear scheduling and shows the model trained with 25 epochs and all other hyperparameters set. My implementation follows LabML DDPM and uses LabML libraries to run and manage my experiments for training and evaluating my model. This implementation can be run in colab and requires connection to Google Drive for loading and saving although this can be modified to run locally.
